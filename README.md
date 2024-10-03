@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofienDerbel 👀
-- 🌱 I’m currently learning Redux for React 💞️
+- 🌱 I’m currently learning NextJS  💞️
 - 📫 How to reach me : sofienderbel6@gmail.com 👋
 
 <!---
